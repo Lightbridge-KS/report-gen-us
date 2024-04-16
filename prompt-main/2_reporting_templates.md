@@ -247,3 +247,20 @@ Examples:
 **IMPRESSION:**
 - A few simple bilateral renal cysts, measuring up to 2.0 cm.
 ```
+
+### Renal Stone
+
+```markdown
+**Kidneys:** Normal size and parenchymal echogenicity of both kidneys. <quantifier> non-obstructing caliceal stone(s) at `[right | left | both]` kidney(s).  No hydronephrosis or solid mass.
+**IMPRESSION:**
+- <quantifier> non-obstructing caliceal stone(s) at `[right | left | both]` kidney(s)
+```
+
+Examples:
+
+```markdown
+**Kidneys:** Normal size and parenchymal echogenicity of both kidneys. A few non-obstructing caliceal stones at right kidney.  No hydronephrosis or solid mass.
+**IMPRESSION:**
+- A few non-obstructing caliceal stones at right kidney.
+```
+
