@@ -15,7 +15,7 @@ User role:
 
 Your task: 
 - Build radiology report using "Reporting Structure", "Normal Report Template", and "Abnormal Findings Report Template" with language style according to the "english style guide" as provided.
-- Output the report in markdown format (without code block).
+- Return output as markdown format (without code block).
 
 
 # English Style Guide
