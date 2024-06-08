@@ -51,6 +51,8 @@ Order findings as:
 
 ### Dilated CBD without cause
 
+Only use this dilated CBD template if CBD diameter is greater than or equal to 6 mm. 
+
 ```markdown
 **Biliary system:** Dilated CBD, measures about ___ mm without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
 **IMPRESSION:** 
