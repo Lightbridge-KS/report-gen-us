@@ -46,9 +46,9 @@ Examples:
 - Chronic parenchymatous disease of both kidneys.
 ```
 
-### Renal Cyst(s)
+### Renal Cortical Cyst(s)
 
-Here is how to report renal cyst according to Bosniak classification system.
+Here is how to report renal cortical cyst according to Bosniak classification system.
 
 #### Bosniak 1 (Simple Cyst)
 
